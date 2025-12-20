@@ -23,7 +23,7 @@ Esta actividad consiste en la implementación **desde cero** (usando únicamente
 - Análisis de resultados y roadmap hacia el proyecto final
 
 ## Estructura del Repositorio
-tarea-redes-neuronales-grupoX/
+tarea-redes-neuronales-grupo1/
 ├── README.md
 ├── requirements.txt         ← ¡Nuevo!
 ├── data/
@@ -39,21 +39,12 @@ tarea-redes-neuronales-grupoX/
 
 ## Requisitos Previos
 
-No se requiere instalación local. Todo el proyecto está diseñado para ejecutarse en **Google Colab** (recomendado) o en cualquier entorno con:
-
-- Python 3.7+
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn (solo para baseline en análisis)
-
 En Colab, todas las librerías ya vienen preinstaladas.
 
-## Instrucciones de Instalación y Ejecución (Google Colab - Recomendado)
+## Instrucciones de Instalación y Ejecución Google Colab 
 
 1. **Abrir el proyecto en Google Drive**
-   - Asegúrate de tener la carpeta `tarea-redes-neuronales-[grupo]` en tu Google Drive.
+   - Asegúrate de tener la carpeta `tarea-redes-neuronales-grupo1` en tu Google Drive.
 
 2. **Ejecutar los notebooks en orden:**
 
@@ -67,7 +58,7 @@ En Colab, todas las librerías ya vienen preinstaladas.
       - Pruebas iniciales
 
    2. `02_experimentacion.ipynb`
-      - Ejecuta todos los experimentos (puede tardar 3-8 minutos)
+      - Ejecuta todos los experimentos puede tardar 3-8 minutos
       - Genera automáticamente el archivo `results/performance_comparison.csv`
       - Crea todas las gráficas en la carpeta `results/`
 
