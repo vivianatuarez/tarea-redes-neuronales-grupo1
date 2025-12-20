@@ -24,13 +24,18 @@ Esta actividad consiste en la implementación **desde cero** (usando únicamente
 
 ## Estructura del Repositorio
 tarea-redes-neuronales-grupoX/
-├── data/intent_data.csv
-├── results/ (con todas las gráficas y csv)
+├── README.md
+├── requirements.txt         ← ¡Nuevo!
+├── data/
+│   └── intent_data.csv
 ├── notebooks/
 │   ├── 01_implementacion_red.ipynb
 │   ├── 02_experimentacion.ipynb
 │   └── 03_analisis_resultados.ipynb
-└── docs/reporte_tecnico.md
+├── results/
+│   └── ... (gráficas y csv)
+└── docs/
+    └── reporte_tecnico.md
 
 ## Requisitos Previos
 
