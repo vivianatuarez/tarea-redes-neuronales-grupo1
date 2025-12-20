@@ -4,10 +4,10 @@
 **Curso:** Inteligencia Artificial
 **Proyecto Final:** Chatbot Conversacional Multimodal para Servicio al Cliente (Proyecto 5)  
 **Grupo:** # tarea-redes-neuronales-grupo1
-**Integrantes:** GRANDA CASTILLO CARLOS ALFONSO
-CAMPOVERDE CRESPO RICARDO ANDRÉS
-NUÑEZ COCHA ERICK JOAN
-TUÁREZ VERGARA VIVIANA CAROLINA
+**Integrantes:** GRANDA CASTILLO CARLOS ALFONSO,
+CAMPOVERDE CRESPO RICARDO ANDRÉS,
+NUÑEZ COCHA ERICK JOAN,
+TUÁREZ VERGARA VIVIANA CAROLINA,
 **Fecha:** Diciembre 2025
 
 ## Descripción General
