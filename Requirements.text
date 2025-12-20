@@ -1,0 +1,20 @@
+
+
+# requirements.txt
+# Dependencias mínimas para ejecutar localmente la Actividad 3: Redes Neuronales desde Cero
+# Todas estas librerías ya vienen preinstaladas en Google Colab
+
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+
+# Opcionales para notebooks
+jupyter>=1.0.0
+ipython>=7.0.0
+
+# Comentario adicional
+# Nota: Este proyecto está diseñado principalmente para ejecutarse en Google Colab,
+# donde no es necesario instalar estas dependencias.
+
+    
+ 
