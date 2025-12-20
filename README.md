@@ -84,20 +84,4 @@ En Colab, todas las librerías ya vienen preinstaladas.
    - En cada notebook: Menú → **Entorno de ejecución** → **Ejecutar todo** (Ctrl+F9)
    - La primera celda monta tu Google Drive (acepta los permisos)
 
-## Ejecución Local 
 
-Si prefieres ejecutar localmente:
-
-```bash
-# Clonar o descargar el repositorio
-git clone [URL_DEL_REPOSITORIO]
-
-# Crear entorno virtual (opcional pero recomendado)
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
-
-# Instalar dependencias (mínimas)
-pip install numpy pandas matplotlib seaborn scikit-learn jupyter
-
-# Abrir los notebooks
-jupyter notebook
