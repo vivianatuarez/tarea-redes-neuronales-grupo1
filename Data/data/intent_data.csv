@@ -1,0 +1,29 @@
+text,label
+quiero cancelar mi pedido,cancelar_pedido
+cancelar orden por favor,cancelar_pedido
+anular compra,cancelar_pedido
+hola buen día,saludo
+buenas tardes como estas,saludo
+saludo,saludo
+cuanto tarda el envio,estado_envio
+estado de mi pedido,estado_envio
+cuando llega mi paquete,estado_envio
+no recibí el producto,reclamo
+me llegó dañado,reclamo
+reclamo por envío,reclamo
+cambiar dirección de entrega,cambiar_direccion
+modificar domicilio,cambiar_direccion
+actualizar dirección,cambiar_direccion
+cuanto cuesta el producto,consultar_precio
+precio del artículo,consultar_precio
+cual es el costo,consultar_precio
+quiero devolver el producto,reclamo
+necesito factura,consultar_precio
+olvidé mi contraseña,saludo
+cómo hago el seguimiento,estado_envio
+mi pedido está retrasado,estado_envio
+quiero hablar con un agente,saludo
+gracias por la ayuda,saludo
+hasta luego,saludo
+no funciona el enlace,reclamo
+error en el pago,reclamo
