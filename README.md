@@ -23,23 +23,14 @@ Esta actividad consiste en la implementación **desde cero** (usando únicamente
 - Análisis de resultados y roadmap hacia el proyecto final
 
 ## Estructura del Repositorio
-tarea-redes-neuronales-[grupo]/
-├── README.md                              ← Este archivo
-├── data/
-│   └── intent_data.csv                    ← Datos sintéticos de intenciones
-├── src/                                   ← (Opcional) Código modular (no usado en notebooks)
+tarea-redes-neuronales-grupoX/
+├── data/intent_data.csv
+├── results/ (con todas las gráficas y csv)
 ├── notebooks/
-│   ├── 01_implementacion_red.ipynb        ← Implementación de la red desde cero
-│   ├── 02_experimentacion.ipynb           ← Experimentos comparativos masivos
-│   └── 03_analisis_resultados.ipynb       ← Análisis profundo y visualizaciones
-├── results/
-│   ├── performance_comparison.csv         ← Resultados de todos los experimentos
-│   ├── top10_configuraciones.png
-│   ├── comparacion_activaciones.png
-│   ├── complejidad_vs_rendimiento.png
-│   └── ...                                ← Otras gráficas generadas
-└── docs/
-└── reporte_tecnico.md                 ← Reporte técnico (2 páginas)
+│   ├── 01_implementacion_red.ipynb
+│   ├── 02_experimentacion.ipynb
+│   └── 03_analisis_resultados.ipynb
+└── docs/reporte_tecnico.md
 
 ## Requisitos Previos
 
